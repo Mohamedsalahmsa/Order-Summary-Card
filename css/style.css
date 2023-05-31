@@ -67,7 +67,7 @@ body {
     padding-top: 30px;
     padding-bottom: 20px;
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .box {
@@ -92,9 +92,9 @@ body {
 }
 .box h2 {
     padding-bottom: 7px;
-    font-size: 20px;
+    font-size: 18.5px;
     color: var(--Dark-blue);
-    font-family: 500;
+    
 }
 .box p {
     color: var(--Desaturated-blue);
@@ -121,7 +121,7 @@ color: rgba(75, 9, 230, 0.6);
     padding: 14px 10px;
     border: none;
     background-color: var(--Bright-blue);
-    color: var(--Very-pale-blue);
+    color: #fff;
     border-radius: 10px ;
     -webkit-border-radius: 10px ;
     -moz-border-radius: 10px ;
